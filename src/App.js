@@ -18,7 +18,7 @@ export default function App() {
           </a>
           , is{" "}
           <a
-            href="https://github.com/Nichel-Leann/Weatherapp-SheCodes"
+            href="https://github.com/Nichel-Leann/weatherapp-5"
             target="_blank"
             rel="noreferrer"
           >
@@ -26,7 +26,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://easyshecodesweatherapp.netlify.app/"
+            href="https://master--weatherapps5.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
